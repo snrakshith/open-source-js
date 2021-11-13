@@ -1,7 +1,7 @@
 {
-  "name": "started",
+  "name": "os-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Template for open source JS Projects",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -11,7 +11,7 @@
     "lint-fix": "node_modules/eslint/.bin/eslint.js --fix*.js"
   },
   "keywords": [
-    "Getting Started"
+    "Getting Started", "oos"
   ],
   "author": "Rakshith",
   "license": "MIT",
